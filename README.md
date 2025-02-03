@@ -1,2 +1,2 @@
 2 wacz file
-This is testing public access to archived web pages of URI's UASC.
+This is testing access to archived web pages of URI's UASC.
